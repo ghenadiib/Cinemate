@@ -1,0 +1,5 @@
+5893cd994b4e8adcbcc1de9c9f5c3e11
+
+Search: https://api.themoviedb.org/3/search/movie?query=Avatar&api_key=5893cd994b4e8adcbcc1de9c9f5c3e11
+
+Individiual: https://api.themoviedb.org/3/movie/{movie_id}?api_key=5893cd994b4e8adcbcc1de9c9f5c3e11
